@@ -14,7 +14,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+",
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   },
   "author": "Sahaj Kedia",
   "license": "ISC",
@@ -23,3 +24,4 @@
   },
   "homepage": "https://github.com/sahajkedia/Resources#readme"
 }
+
